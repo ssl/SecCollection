@@ -1,0 +1,11 @@
+aan
+uit
+off
+on
+1
+0
+true
+false
+TRUE
+FALSE
+null

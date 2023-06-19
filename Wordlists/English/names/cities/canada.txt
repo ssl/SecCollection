@@ -1,0 +1,10 @@
+Calgary
+Edmonton
+Halifax
+Montreal
+Ottawa
+Quebec
+Toronto
+Vancouver
+Victoria
+Winnipeg

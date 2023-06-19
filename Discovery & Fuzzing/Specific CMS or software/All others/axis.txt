@@ -1,0 +1,18 @@
+*.jws
+AdminServlet
+AxisServlet
+EchoHeaders.jws         
+SOAPMonitor
+StockQuoteService.jws  
+fingerprint.jsp  
+happyaxis.jsp    /Users/eindermaur/SecCollection/Exploiting/axis.txt
+/Users/eindermaur/SecCollection/Exploiting/bad_chars.txt
+i18nLib.jsp  
+index.html
+index.jsp
+index.jws
+services
+services/*
+servlet
+servlet/AdminServlet
+servlet/AxisServlet

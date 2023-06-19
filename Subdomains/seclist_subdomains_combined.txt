@@ -1,0 +1,2 @@
+
+amass enum -active -d google.com -brute -w /root/subs/seclist_sub.txt -config /root/.config/amass/config.ini

@@ -1,0 +1,6 @@
+admin
+administrator
+test
+beheer
+beheerder
+demo
