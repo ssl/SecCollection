@@ -28,14 +28,13 @@ Here's an overview of what's currently included in this repository:
 
 ## Todo List
 
-We constantly strive to improve the quality and diversity of the collections in this repository. Here is what we aim to accomplish next:
-
 1. Add an `all.txt` file for all directories: helps in accessing all the cybersecurity lists in one place.
 2. Remove all duplicate lists
 3. Cleanup of specific CMS and password lists: aim to refine these lists to ensure they only contain relevant and useful information.
 4. Add more password sources
 5. Add more wordlists in different languages
+6. Add new Welcome<year> passwords
 
 ## Contributing
 
-We welcome all contributions that help us improve the quality and diversity of the lists in this repository. If you're interested in helping us out, feel free to open a pull request with your contributions.
+All contributions that help improve the quality and diversity of the lists in this repository. Feel free to open a pull request with your contributions.
