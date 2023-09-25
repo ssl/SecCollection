@@ -33,7 +33,6 @@ Here's an overview of what's currently included in this repository:
 3. Cleanup of specific CMS and password lists: aim to refine these lists to ensure they only contain relevant and useful information.
 4. Add more password sources
 5. Add more wordlists in different languages
-6. Add new Welcome<year> passwords
 
 ## Contributing
 

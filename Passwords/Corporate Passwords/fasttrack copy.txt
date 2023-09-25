@@ -62,7 +62,6 @@ default
 test
 testing
 password2
-
 password
 Password1
 Password1!
