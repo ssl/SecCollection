@@ -22,7 +22,7 @@ Here's an overview of what's currently included in this repository:
 
 - **Subdomains**: Hosts a wide variety of subdomain lists used for domain enumeration and brute-forcing activities.
 
-- **Wordlists**: Includes wordlists in multiple languages such as English, French, Spanish, German, Russian, Arabic, Chinese, Japanese, among others.
+- **Wordlists**: Includes wordlists in multiple languages such as English, Dutch, French, Spanish, German, Russian, Arabic, Chinese, Japanese, among others.
 
 - **Other**: A general category with miscellaneous resources, such as security question-answers, SQLmap lists, web-based lists, and infrastructure-related lists.
 
