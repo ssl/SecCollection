@@ -376,7 +376,7 @@
 *.csi
 *.css
 *.css$
-*.css$ 
+*.css$
 *.csv
 *.csv$
 *.customfeed.html
@@ -474,7 +474,7 @@
 *.image.thumbnail.html
 *.inc
 *.inc$
-*.inc$ 
+*.inc$
 *.interactive.html
 *.interactive.slider.html
 *.isuu.html
@@ -485,7 +485,7 @@
 *.jpg$
 *.js
 *.js$
-*.js$ 
+*.js$
 *.json
 *.json$
 *.jsp
@@ -587,7 +587,7 @@
 *.personalization.widgetsearch.html
 *.php
 *.php$
-*.php$ 
+*.php$
 *.php*
 *.php</pre></body></html>
 *.php?*
@@ -1014,7 +1014,7 @@
 */feed/*
 */feed/rss/$
 */feed/rss/$ 
-*/feed/ 
+*/feed/
 */filter/tips
 */followers
 */followers/*
@@ -1166,7 +1166,7 @@
 */trackback*
 */trackback/$
 */trackback/$ 
-*/trackback/ 
+*/trackback/
 */translations
 */tried/*
 */update.php
@@ -1214,7 +1214,7 @@
 *=
 *=print
 *?
-*? # search results 
+*? # search results
 *?$
 *?%3bref*
 *?%3bv*
@@ -6443,7 +6443,6 @@
 ?show_error=true
 ?sputnik=*
 ?st.layer*
-?targeturl=https://www.owler.com/iaapp/getdatacard.htm
 ?utm_source=
 ?wptheme=
 @
@@ -15737,7 +15736,7 @@ cgi-bin/*
 cgi-bin/</pre></body></html>
 cgi-bin/members.pl
 cgi-bin/trap.cgi
-cgi-bin/ 
+cgi-bin/
 cgi-bin2
 cgi-bin_ssl
 cgi-data
@@ -24819,7 +24818,7 @@ feed.xml
 feed/ 
 feed/$
 feed/*
-feed/ 
+feed/
 feed2js
 feed2js.php
 feed_embed.php
@@ -30651,7 +30650,7 @@ index.old
 index.old.php
 index.page
 index.php
-index.php # separate directive for the main script file of wp 
+index.php # separate directive for the main script file of wp
 index.php$
 index.php*
 index.php.bak
@@ -44831,7 +44830,7 @@ print.phtml
 print.shtml
 print.ssf
 print.swf
-print/ # wp-print block 
+print/ # wp-print block
 print/*
 print2.php
 print_
@@ -57901,7 +57900,7 @@ trackback.asp
 trackback.aspx
 trackback.axd
 trackback.php
-trackback/ 
+trackback/
 trackclick
 trackclick.php
 tracker
@@ -62324,7 +62323,7 @@ wp-admin/
 wp-admin/*
 wp-admin/</pre></body></html>
 wp-admin/admin-ajax.php
-wp-admin/ 
+wp-admin/
 wp-app
 wp-app.php
 wp-atom
@@ -62345,7 +62344,7 @@ wp-config.php
 wp-content
 wp-content-cache
 wp-content/cache
-wp-content/cache/ 
+wp-content/cache/
 wp-content/languages
 wp-content/languages/ru_ru.po
 wp-content/mu-plugins
@@ -62356,10 +62355,10 @@ wp-content/plugins/</pre></body></html>
 wp-content/plugins/keystone-taboola/assets/js/taboola.js*
 wp-content/plugins/pb-ads/ad-page
 wp-content/plugins/vimeography/lib/shared/assets
-wp-content/plugins/ 
+wp-content/plugins/
 wp-content/themes
 wp-content/themes/ 
-wp-content/themes/ 
+wp-content/themes/
 wp-content/upgrade
 wp-content/uploads
 wp-contents
@@ -62386,7 +62385,7 @@ wp-includes/
 wp-includes/*
 wp-includes/</pre></body></html>
 wp-includes/js
-wp-includes/ 
+wp-includes/
 wp-json
 wp-json/*
 wp-layout.css

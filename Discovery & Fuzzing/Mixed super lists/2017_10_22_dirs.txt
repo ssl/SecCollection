@@ -275,7 +275,6 @@
 /bourseweb
 /epass3/member_reg/chi
 /App_Includes/hits
-/'https://trustseal.enamad.ir
 /GodrejAppliances
 /tripplanner20
 /careers/isdb
@@ -16290,7 +16289,6 @@
 /olc-2.0/segelflugszene
 /ishop/default
 /CHM/scripts
-/url/https://osusoku.com
 /site/fonts
 /news/widget
 /corporate/acquisitions/compendium
@@ -19182,13 +19180,11 @@
 /widget/live
 /scholat
 /index/get_kline/yapi
-/url/http://iphonech.info/archives
 /0/26733
 /wp-content/uploads/2015/06
 /components/dashboard
 /assets/1c878118
 /fotos_intervencao/288
-/https://web.nike.com/xp/sbdunk
 /pages/category-cards-section
 /59/2017/09/28/1173745/300x250
 /advertiser/3227/142/225/336
@@ -31074,7 +31070,6 @@
 /3988968/1481641601248
 /banner/index
 /zfxxgk
-/b/https://www.azadliq.org
 /mstar/525/200x600_May/200x600_May
 /App/desktop/MatchTable
 /mylib
@@ -33202,7 +33197,6 @@
 /2016/04/28
 /cgi-bin/champ
 /home_static
-/url/https://ameblo.jp/v-com2
 /content/www/es/es
 /reklam/betlike
 /es6
@@ -34079,7 +34073,6 @@
 /associated
 /cache/worldcurling.org/
 /8fd8aa069d3b43579afe6a1b22be7e25
-/entry/image/https://osusoku.com
 /component/rsform
 /scripts/angular.templates
 /us/higher-education
@@ -36696,7 +36689,6 @@
 /lexus-share/js/tracking_omn
 /websc
 /static/webroot
-/https://www.naturalnews.com
 /mississauga-ca/production/trigger
 /files/html_b/01-0127495
 /ja_jp
@@ -38127,7 +38119,6 @@
 /eng/themes/tv_eng/css
 /blog-rank/components/com_rating
 /assets/snippets/captcha
-/ddm/adj/N6595.2032304ARMYMWR/B8965340.121261221;sz=300x250;click=https://asn.armymwr.com/www/delivery
 /tronc/southfloridanguxprod
 /uext
 /fp_stdalone/fpss/templates/JJ-Obs/css
@@ -39980,7 +39971,6 @@
 /genlinks/widget/php
 /integrations/api/vendor/bestday
 /themes/deliveryRagazzo/assets/js
-/feeds/posts/default/-/https://go.onclasrv.com
 /OrderForm/includes
 /wp-content/plugins/wp-euroleague
 /publicidades/xxxgaysporno
@@ -40367,7 +40357,6 @@
 /digest
 /templates/qtafsir_theme/php
 /assets/themes/weifans
-/vQ8pOR3KTa2pA9vbrjCZ1CkoiZg=/320x320/https://external.xx.fbcdn.net
 /striderite/prod
 /modules/mod_info_newsline_column
 /web/hs/css
@@ -40396,7 +40385,6 @@
 /wordpress/wp-content/themes/tethertools_susy
 //modules/mod_tpmenu/tpmenu/dropdown
 /tronc/Thecubeprod
-/adiframe|3.0|288|6418075|0|2018|ADTECH;adid=18535469;bnid=-1;target=_blank;rdclick=https://cds2.freenet.de/www/export
 /verbotv/mobile
 /ralite/ra
 /wp-content/plugins/pierres-wordspew
@@ -41917,7 +41905,6 @@
 /en/wp-content/plugins/go_pricing/assets/css
 /ninaroosen.com
 /os/os_desktop/segi
-/pixel;ref=https://turnpikeinfo.com
 /wp-content/sfff_plugins/gd-star-rating/css
 /typo3conf/ext/aseag_setup/Resources/Public
 /bsc
@@ -42432,7 +42419,6 @@
 /wp-content/themes/gt3-wp-quidditch/css/core
 /simpleadserver/rrntopmenu
 /_post/dpopular
-/addyn|3.0|1294|6390571|0|225|ADTECH;AdId=18496721;BnId=-1;;loc=100;target=_blank;misc=1506870072.76;rdclick=https://www.elkhadra.com/ads/revive/www/delivery
 /templates/magz_plazza
 /actu/wp-admin
 /webmaster_es
@@ -44234,7 +44220,6 @@
 /wp-content/plugins/ajax-login/tmp/captcha
 /wp-content/themes/marafon/js/ajax
 /wp-content/themes/daneshfile/include
-/crop/400x200/q80/https://external.xx.fbcdn.net
 /view/includes/capcha
 /nipass
 /tools/mxcre
@@ -44246,7 +44231,6 @@
 /site/alwaysOn/0.1/bundles/newnownext
 /tools/ads/openx/www/delivery
 /file/tema/Admin/dist/css
-/zhAGVCYmfXam8iEN-r7abRHWTjU=/640x320/smart/https://external.xx.fbcdn.net
 /wp-content/themes/opus
 /v2/public
 /fit/sp/delivery
@@ -46935,7 +46919,6 @@
 /images/wamiz
 /forum/if
 /app/flex-gigantic
-/ddm/adi/N2465.124994.FINANCIALADVISOR/B10726660.202831067;sz=300x600;click=https://adserver.fa-mag.com/www/delivery
 /a8d8g5tm
 /modules/inframagasins
 /js/tgeo
@@ -47303,7 +47286,6 @@
 /dsp
 /webdev/position_new/web
 /wp-content/themes/lazanews/rslib/minify
-/DRGVrJoSMhbZN4sexUalwN5gEw8=/320x320/https://external.xx.fbcdn.net
 /wp-content/themes/minimum_2017/js
 /sites/all/themes/ufrj/assets/js
 /fileadmin/social-stream-wall
@@ -48939,7 +48921,6 @@
 /special/wall_rotation
 /piwik_x1rd3jbibmvbl54
 /wp-content/themes/camber/css
-/[url=https://www.hostingpics.net
 /forum2
 /designs/ranks/css
 //template/edu2011/advertisement
@@ -49790,7 +49771,6 @@
 /fileadmin/template/widgets/include
 /wp-content/themes/prolog
 /edline/spotlight
-/addyn|3.0|799|6337044|0|0|ADTECH;AdId=18572630;BnId=-1;;loc=100;target=_blank;misc=1507856533;rdclick=https://recognified.adspirit.de
 /anketa
 /api/phone
 /ncss
@@ -49800,7 +49780,6 @@
 /ads/banner/auto/setup
 /wp-content/themes/florida-wp-7.2.0/css
 /easy/admin/resources/form_designs/captcha
-/ddm/adj/N100601.281318TRADEDOUBLERPL/B9722127.131747025;sz=300x250;click=https://o.techmaniak.pl/www/delivery
 /xhtml_files
 /fsca
 /wp-content/themes/startit_2/assets/css
@@ -56040,7 +56019,6 @@
 /skin/frontend/default/ma_classicstore/css
 /wp-content/themes/ultimatum/wonderfoundry/helpers
 /isshikipub
-/pcs/view%3Fxai=AKAOjssEezRmBFFMrkqYIir0bPONeDYLmV1z5uWN7GPCdAxb4iI5GDNDnjwpBIyf_4tQrrAYe_Z4F-NL0zCk5Z3fw6tkfrcJNYNB0wyIVSGjWrNKGemxiasJ-D_XAtaW-6BtQgY4lO-zmXSzZT4SWRby03_y_SK4makDBbRATSPytoP2cyIP1AlVidbdzPRyWYxBbhhSj6OC81LfMWpOBeZRAO11gv6BiLf5s0J9SUejP-fY-hv1d9CikmTAN1-m5ViLWibqPbzJwAdbOZB0Q6zUjVepJgIzatOUpZgcljpNgkXs2Bf7&sig=Cg0ArKJSzESLt7k-WJ1AEAE&urlfix=1&adurl=https://ads.ayads.co
 /sites/all/libraries/ImageFlow
 /pwktrack/piwik
 /avis-clients/widget/8/d/4/8d433ae7-1330-cf54-0999-32837fd69316
@@ -56062,7 +56040,6 @@
 /marabraz
 /outuse
 /wp-content/themes/goodnews/css
-/MYk-J3FhWua0WQb6QKzhnZOAL34=/640x320/smart/https://external.xx.fbcdn.net
 /menshealth
 /abzar/tools/taghvim
 /ajax/basket

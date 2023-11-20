@@ -765,7 +765,6 @@ SonyEricssonZ530i/R6AC Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-
 SAMSUNG-GT-E3213K/E3213KJPKD1 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SAMSUNG-GT-C3222/C3222DDJL2 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SAMSUNG-GT-S5610K/S5610KJVKK1 NetFront/4.1 Profile/MIDP-2.0 Configuration/CLDC-1.1
-<img scr=http://4.bp.blogspot.com/-UUXJ-iOf7M8/VWL-w42aNhI/AAAAAAABO1Y/hNXcwrOsXc0/s1600/m345PHa.jpg/>
 Mozilla/5.0 (PLAYSTATION 3 4.55) AppleWebKit/531.22.8 (KHTML, like Gecko)
 SAMSUNG-GT-C3212/C3212JVIK1 NetFront/3.5 Profile/MIDP-2.0 Configuration/CLDC-1.1
 SAMSUNG-SCH-W169/W169DDDL2 NetFront/3.4 Profile/MIDP-2.0 Configuration/CLDC-1.1

@@ -5385,7 +5385,6 @@ false
 /testing
 /test.html
 /telsearch
-/?targetURL=https://www.owler.com/iaApp/getDataCard.htm
 /tag/zenon-karol-bajorowicz.html
 /tag/wiktor-pilarczyk-orlen.html
 /tag/wiktor-pilarczyk.html
@@ -9034,13 +9033,13 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /wp-settings.php
 /wp-mail.php
 /wp-links-opml.php
-/wp-includes/ 
+/wp-includes/
 /wp-includes/*
 /wp/feed
-/wp-content/themes/ 
-/wp-content/plugins/ 
-/wp-content/cache/ 
-/wp-admin/ 
+/wp-content/themes/
+/wp-content/plugins/
+/wp-content/cache/
+/wp-admin/
 /*/wp-admin/
 /wiki/Special%3ASearch
 /*?width=
@@ -9091,8 +9090,8 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /t-reset-password-migration.html*
 /t-reset-password.html*
 /transfer
-*/trackback/ 
-/trackback/ 
+*/trackback/
+/trackback/
 /*/track$
 /t-profilepic-save.html*
 /t-profilepic-delete.html*
@@ -9200,7 +9199,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /segal_morel/
 /secret/
 /search.xml
-/*? # search results 
+/*? # search results
 /search_byline/?
 */search_bff
 /*/search$
@@ -9268,7 +9267,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /process
 /privatemessages
 /privacy_policy.php
-/print/ # wp-print block 
+/print/ # wp-print block
 /printable/
 /*?print=1
 *?print
@@ -9310,7 +9309,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /pic/
 /phpsso_server
 
-/*.php$ 
+/*.php$
 /photos/youpy/
 /PhotoSlide.aspx?
 /photos/i_love_u_get_away_from_me/
@@ -9434,7 +9433,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 *.json
 /j-share-with-a-friend.json*
 
-/*.js$ 
+/*.js$
 /j-retrieve-star-rating-total-count.json*
 /j-retrieve-star-rating.json*
 /j-retrieve-profile-rating-tag-counts.json*
@@ -9475,7 +9474,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /information/
 /index.php/user/logout
 /index.php/user/login
-/index.php # separate directive for the main script file of WP 
+/index.php # separate directive for the main script file of WP
 /index.php?main_page=product_info&amp;products_id
 /index.php?main_page=product_info&amp;cPath
 /index.php?main_page=login
@@ -9484,7 +9483,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /index1.html
 /Includes/
 
-/*.inc$ 
+/*.inc$
 /inboxupdate
 /image/ 
 /il/
@@ -9544,8 +9543,8 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /*filter=
 /fileadmin
 /Feedback/
-*/feed/ 
-/feed/ 
+*/feed/
+/feed/
 /feed/*
 /*/feed/*
 /*featuredAds*
@@ -9631,7 +9630,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /customerservice/
 /customer/activation
 /custom
-/*.css$ 
+/*.css$
 /csp/mediapool
 */cron.php
 /cron/*
@@ -9718,7 +9717,7 @@ http://www.centraljersey.com/news/montgomery-intoxicated-man-borrows-car-drives-
 /checkout/completed
 /checkout/billingaddress
 /*cHash
-/cgi-bin/ 
+/cgi-bin/
 /*.cgi
 /cfc/
 /cf/

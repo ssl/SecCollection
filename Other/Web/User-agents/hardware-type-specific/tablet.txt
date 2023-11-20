@@ -23781,7 +23781,6 @@ Mozilla/5.0 (X11; U; Linux x86_64; es-MX) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Linux; U; Android 4.2.2; cs-cz; Lenovo B8000-H Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 Tablet SznProhlizec/4.3.1a
 Mozilla/5.0 (X11; U; Linux x86_64; en-us) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Safari/537.36 Puffin/7.5.0.20369AT
 Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69 [FBAN/FBIOS;FBAV/31.0.0.44.261;FBBV/10598108;FBDV/iPad2,5;FBMD/iPad;FBSN/iPhone OS;FBSV/8.3;FBSS/1; FBCR/;FBID/tablet;FBLC/en_US;FBOP/1]
-https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28LuneOS%2C+like+webOS%2F3.0.5%3B+Tablet%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+QtWebEngine%2F5.6.2+Chrome%2F45.0.2454.103+Safari%2F537.36
 Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.4;FBBV/290891;FBDV/iPad2,5;FBMD/iPad;FBSN/iPhone OS;FBSV/6.1.3;FBSS/1; FBCR/;FBID/tablet;FBLC/es_ES;FBOP/1]
 Mozilla/5.0 (Linux; Android 4.1.2; SM-T2105 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Safari/537.36
 Mozilla/5.0 (Linux; U; Android 4.2.2; en-US; SM-T111 Build/JDQ39) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1 UCBrowser/11.1.3.1128 Mobile

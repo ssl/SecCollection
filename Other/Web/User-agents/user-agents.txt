@@ -1,9 +1,3 @@
-# Copyright (c) 2006-2017 sqlmap developers (http://sqlmap.org/)
-# See the file 'doc/COPYING' for copying permission
-# https://github.com/sqlmapproject/sqlmap/blob/master/doc/COPYING
-
-# Opera
-
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; de) Opera 8.0
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; de) Opera 8.02
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0

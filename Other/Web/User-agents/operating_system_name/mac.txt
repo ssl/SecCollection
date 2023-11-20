@@ -399,7 +399,6 @@ Opera/7.11 (Macintosh; U; sv)
 Opera/6.11 (Macintosh; U; ca)
 Opera/9.23 (Macintosh; U; tw)
 Mozilla/5.0 (Macintosh; Intel MacOS 1.0; rv:2.0.1) Gecko/20100101 Opera/96
-https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_13%29+AppleWebKit%2F603.1.13+%28KHTML%2C+like+Gecko%29+Version%2F10.1+Safari%2F603.1.13
 Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC) Opera 7.54  [en]
 Mozilla/5.0 (Macintosh; U; MacOS X 10_9_5; en-US; Valve Steam Client/1474415843; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
 Opera/6.01 (Macintosh; U; tr)
@@ -652,4 +651,3 @@ Mozilla/5.0 (Macintosh; U; Macintosh; en-US; Valve Steam GameOverlay/1370988433;
 Mozilla/5.0 (Macintosh; U; MacOS X 10_9_3; en-US; Valve Steam GameOverlay/1409240101; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.86 Safari/537.36
 Mozilla/5.0 (Macintosh; U; MacOS X 10_9_5; en-US; Valve Steam GameOverlay/1444853545; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
 Mozilla/5.0 (Macintosh; rv:60.0) Gecko/20100101 Firefox/60.0 vic.demuzere.be
-https://myip.ms/view/comp_browseragents/1798864/Mozilla_5_0_Macintosh_Intel_Mac_OS_X_10_11_6_AppleWebKit_537_36_KHTML_like_Gecko_Chrome_49_0_2623_110_Safari_537_36.html

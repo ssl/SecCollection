@@ -8293,7 +8293,6 @@ Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0; en-SG) AppleWebKit/535.18.22 
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Safari/10A5355d Safari/8536.25
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A4449b Safari/9537.53
 Mozilla/7.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/601.4.7 (KHTML, like Gecko) Version/9.0.5 Safari/601.4.8
-https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+11_0+like+Mac+OS+X%29+AppleWebKit%2F604.1.21+%28KHTML%2C+like+Gecko%29+Version%2F10.0+Mobile%2F15A5278f+Safari%2F602.1
 Mozilla/5.0; iPhone; CPU iPhone OS 8_1_2 like Mac OS X; AppleWebKit/600.1.4; KHTML, like Gecko; Version/8.0 Mobile/12B440 Safari/600.1.4
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Version/4.0 Safari/532.5
 Mozilla/5.0 (iPad; U; CPU OS 7_0 like Mac OS X; en-us; MediaPad 7 Youth 2 Build/HuaweiMediaPad) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10
@@ -8561,7 +8560,6 @@ Mozilla/5.0 (iPad; CPU OS 10_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like 
 Mozilla/5.0 (KHTML, Safari/400) Version/11.0.2 Web/Browser
 Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Coast/2.0.2.69230 Mobile/11A465 Safari/7534.48.3
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/10.1 Safari/7046A194A
-https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_13%29+AppleWebKit%2F603.1.13+%28KHTML%2C+like+Gecko%29+Version%2F10.1+Safari%2F603.1.13
 Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.23 (KHTML, like Gecko) Safari/531.9
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B651 Safari/7534.48.3

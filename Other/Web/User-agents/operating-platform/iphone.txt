@@ -8234,7 +8234,6 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHT
 Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E216 MobileIron/2.3.0 Version/11.3 Safari/605.1.15
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A4449b Safari/9537.53
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) GSA/25.0.152548370 Mobile/13B143 Safari/601.1
-https://udger.com/resources/online-parser?Fuas=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+11_0+like+Mac+OS+X%29+AppleWebKit%2F604.1.21+%28KHTML%2C+like+Gecko%29+Version%2F10.0+Mobile%2F15A5278f+Safari%2F602.1
 Mozilla/5.0; iPhone; CPU iPhone OS 8_1_2 like Mac OS X; AppleWebKit/600.1.4; KHTML, like Gecko; Version/8.0 Mobile/12B440 Safari/600.1.4
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) GSA/25.0.152548370 Mobile/13F69 Safari/601.1
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/35.0.1916.38 Mobile/11D201 Safari/9537.53 (000504)

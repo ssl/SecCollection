@@ -16692,7 +16692,6 @@
 /service_store/ajax
 /fuwu_dian/1113454444x
 /fuwu_dian/1121114795x
-/vul/info/qid/QTVA-2015-275429https://butian.360.cn/vul/info/qid
 /duffiye/duffiye/blob/8cc21a1446ae05f5f83cb5bcf8befa75e8766621/duffiye-admin/src/main/resources
 /share/qq
 /programs/view/8cVB-L8Zuug
@@ -25019,7 +25018,6 @@
 /tt/bit-xxzs/gs/xmlpzs
 /groupSpace
 /ygweb/ueditor/jsp
-/mw1024/005QRCxmjw1f1svpp51mnj312v0lt1ae.jpghttps://nosec.org/my/threats
 /live/1980062727
 /live/swf
 /sonsite/mag_dep
@@ -35323,10 +35321,6 @@
 /jjmszj/SkyTechUI/tzmszj/webpage
 /COST/DocumentLibrary
 /AjaxHtml
-/Home/PayMent/llpayNotify/&oid_partner=201501211000185510&sign_type=MD5&timestamp=20150122163422&url_return=https://www.96caifu.com/Home/PayMent/llpayReturn
-/Home/PayMent/llpayNotify/&oid_partner=201501211000185510&sign_type=MD5&timestamp=20150122164243&url_return=https://www.96caifu.com/Home/PayMent/llpayReturn
-/Home/PayMent/llpayNotify/&oid_partner=201501211000185510&pay_type=1&sign_type=MD5&timestamp=20150122170845&url_return=https://www.96caifu.com/Home/PayMent/llpayReturn
-/Home/PayMent/llpayNotify/&oid_partner=201501211000185510&sign_type=MD5&timestamp=20150122164024&url_return=https://www.96caifu.com/Home/PayMent/llpayReturn
 /CrossWebApp
 /wp-content/plugins/sms
 /qmhd/manage
