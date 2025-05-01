@@ -26,14 +26,6 @@ Here's an overview of what's currently included in this repository:
 
 - **Other**: A general category with miscellaneous resources, such as security question-answers, SQLmap lists, web-based lists, and infrastructure-related lists.
 
-## Todo List
-
-1. Add an `all.txt` file for all directories: helps in accessing all the cybersecurity lists in one place.
-2. Remove all duplicate lists
-3. Cleanup of specific CMS and password lists: aim to refine these lists to ensure they only contain relevant and useful information.
-4. Add more password sources
-5. Add more wordlists in different languages
-
 ## Contributing
 
 All contributions that help improve the quality and diversity of the lists in this repository. Feel free to open a pull request with your contributions.
